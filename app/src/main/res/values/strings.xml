@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="edit_message">Add a message</string>
+    <string name="button_send">Save</string>
+    <string name="saves">Save</string>
+    <string name="clear">Clear</string>
+    <string name="history">History</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="emotion">joy | sadness | anger | love | fear</string>
+    <string-array name="emotion_names">
+        <item>joy</item>
+        <item>sadness</item>
+        <item>anger</item>
+        <item>love</item>
+        <item>fear</item>
+    </string-array>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+</resources>
